@@ -17,6 +17,6 @@ public class StudentInfo {
 	System.out.println("날짜 : " + Today);
 	System.out.println("이름 : " + Name);
 	System.out.println("학번 : " + Hakbun);
-    System.out.println("주소 : " + Address);
+	System.out.println("주소 : " + Address);
   }
 }
