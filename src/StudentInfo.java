@@ -1,4 +1,11 @@
+/* 반드시 아래의 4가지를 작성해주는 것이 좋음.
+ * Author(누가) : JUNG, JIKANG
+ * When(언제) : '22.07.26.TUE
+ * Objectives(무엇으로) : 
+ * Environment(환경) : OS, JDK ver., Editor => Windows, JDK 11.0.16, Eclipse IDE(2022-06)
+ */
 import java.util.Scanner; //Scanner를 쓰려면 이 문장이 필요
+
 public class StudentInfo {
   public static void main(String[] args) { //프로그램의 시작과 끝
 	Scanner sc = new Scanner(System.in);
