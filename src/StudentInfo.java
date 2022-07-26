@@ -11,8 +11,12 @@ public class StudentInfo {
 	System.out.print("학생의 학번을 입력하세요 : ");
 	String Hakbun = sc.nextLine();
 	
+	System.out.print("학생의 주소를 입력하세요 : ");
+	String Address = sc.nextLine();
+	
 	System.out.println("날짜 : " + Today);
 	System.out.println("이름 : " + Name);
 	System.out.println("학번 : " + Hakbun);
-}
+    System.out.println("주소 : " + Address);
+  }
 }
