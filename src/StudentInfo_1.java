@@ -6,7 +6,7 @@
  */
 import java.util.Scanner; //Scanner를 쓰려면 이 문장이 필요
 
-public class StudentInfo {
+public class StudentInfo_1 {
   public static void main(String[] args) { //프로그램의 시작과 끝
 	Scanner sc = new Scanner(System.in);
 	System.out.print("오늘 날짜를 입력하세요 : "); //문자는 반드시""안에 작성할 것.
